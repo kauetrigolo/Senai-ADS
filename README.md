@@ -26,11 +26,11 @@ JavaScript: Linguagem de programação para adicionar interatividade e funcional
 
 GitHub: Plataforma de hospedagem de código-fonte que permite o compartilhamento e colaboração do projeto.
 
-## *OBSERVAÇãO: Esse site foi hospedado no plataforma de nuvem Azure.
-
 
 Protótipo:
 https://www.figma.com/file/XEyDA3upCrr9hxn2KQY1QG/Projeto?type=design&node-id=0%3A1&t=f0F76SiOocoZIPbT-1
+
+
 
 ![image](https://github.com/kauetrigolo/Senai-ADS/assets/131711415/9e56c4f7-edc3-4834-af28-e8ed5526f17e)
 
