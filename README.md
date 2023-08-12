@@ -35,3 +35,4 @@ https://www.figma.com/file/XEyDA3upCrr9hxn2KQY1QG/Projeto?type=design&node-id=0%
 ![image](https://github.com/kauetrigolo/Senai-ADS/assets/131711415/9e56c4f7-edc3-4834-af28-e8ed5526f17e)
 
 # Acesse o site pelo link abaixo
+https://grand-panda-21e14a.netlify.app/
